@@ -11,6 +11,7 @@ export const SITE_CONFIG = {
   name: 'İleri ve Güvenli Sürüş Eğitimi',
   description: 'Teorik eğitim, kapalı alan hakimiyet eğitimi ve yol eğitimi ile profesyonel ileri sürüş eğitimi. Güvenli ve deneyimli sürüş için başvurun.',
   phone: '+90 XXX XXX XX XX',
+  whatsapp: '+90 5XX XXX XX XX', // WhatsApp numarası (5 ile başlamalı, boşluk olmadan)
   email: 'info@ileri-surus-egitimi.com',
   address: {
     street: 'Adres Bilgisi',
@@ -25,4 +26,5 @@ export const SITE_CONFIG = {
     instagram: ''
   }
 };
+
 
